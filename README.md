@@ -1,7 +1,7 @@
 # ScamSlam
 Scam detection software to keep you and your information safe.  
 
-Try it out here: [ScamSlam](detected.html)  
+[Try it out here](detected.html)  
 
 # Design Research  
 [Presentation](./docs/Project2H.pdf)  
