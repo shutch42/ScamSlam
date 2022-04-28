@@ -1,4 +1,5 @@
-[Try it out here](detected.html)  
+# Try it out  
+Browse our scam detection UI in our [interactive digital mockup](detected.html).  
 
 # Design Research  
 [Presentation](./docs/Project2H.pdf)  
