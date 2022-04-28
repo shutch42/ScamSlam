@@ -1,4 +1,3 @@
-# ScamSlam  
 ## The Problem
 Millions of people encounter scams every day. These scams can look convincing, and no one is completely immune to them. There are many scams out there, such as hacking, phishing, viruses, fraud, and impersonation, so it can be hard to keep track and stay informed of each method.
 
