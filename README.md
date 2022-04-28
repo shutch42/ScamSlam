@@ -1,5 +1,6 @@
 # ScamSlam
-Just some webpages to emulate the design of our project for CS321  
+Scam detection software to keep you and your information safe.  
+
 Try it out here: [ScamSlam](detected.html)  
 
 # Design Research  
