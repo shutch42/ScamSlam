@@ -1,3 +1,11 @@
 # ScamSlam
 Just some webpages to emulate the design of our project for CS321  
-Try it out here: [ScamSlam](detected.html)
+Try it out here: [ScamSlam](detected.html)  
+
+# Design Research  
+[Presentation](./docs/Project2H.pdf)  
+[Report](./docs/Project2I.pdf)  
+
+# Prototype and Usability Testing  
+[Presentation](./docs/Project3F.pdf)  
+[Report](./docs/Project3G.pdf)
