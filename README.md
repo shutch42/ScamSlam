@@ -1,5 +1,5 @@
 [//]: # (ScamSlam)  
-{% include playVideo.html id="yZzLXiCEFGE" %}  
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/yZzLXiCEFGE/" allowfullscreen=""></iframe>  
 ## The Problem
 Millions of people encounter scams every day. These scams can look convincing, and no one is completely immune to them. There are many different kinds of scams out there, such as phishing, viruses, fraud, hacking, and impersonation, so it can be hard to keep track and stay informed of each method.
 
