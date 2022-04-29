@@ -51,3 +51,19 @@ Learn more about it here:
 
 ## Interactive Digital Mockup
 [Test out our scam detection UI here.](detected.html) 
+
+## Contributions
+<table>
+  <tr>
+    <th>Sam Hutcherson - 25%</th>
+    <th>Justin Pirman - 25%</th>
+    <th>Chase Wallendorff - 25%</th>
+    <th>Jose Becerril Hernandez - 25%</th>
+  </tr>
+  <tr>
+    <td>Arranged website in github pages</td>
+    <td>Helped plan and create content</td>
+    <td>Planned and wrote content for website </td>
+    <td>Wrote content to post on website</td>
+  </tr>
+</table>
