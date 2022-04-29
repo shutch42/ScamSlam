@@ -1,6 +1,6 @@
 [//]: # (ScamSlam)  
 <video controls width="480">
-  <source src="/docs/ScamSlamRepo.mp4" type="video/mp4">
+  <source src="./docs/ScamSlamRepo.mp4" type="video/mp4">
 </video>  
 
 ## The Problem
