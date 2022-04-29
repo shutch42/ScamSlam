@@ -35,13 +35,13 @@ To combat these many methods of scams, we've designed a suite of anti-scam softw
 ### Research
 We made decisions about our design goals through interviews, contextual inquiry, sketches, and storyboards.  
 Read more about it in these project documents:  
-[Presentation](./docs/Project2H.pdf)  
-[Report](./docs/Project2I.pdf)  
+[Presentation 2H](./docs/Project2H.pdf)  
+[Report 2I](./docs/Project2I.pdf)  
 ### Prototyping
 We refined our design through multiple paper prototypes, usability tests, and a digital mockup.  
 Learn more about it here:  
-[Presentation](./docs/Project3F.pdf)  
-[Report](./docs/Project3G.pdf)  
+[Presentation 3F](./docs/Project3F.pdf)  
+[Report 3G](./docs/Project3G.pdf)  
 
 ## Interactive Digital Mockup
 [Test out our scam detection UI here.](detected.html) 
