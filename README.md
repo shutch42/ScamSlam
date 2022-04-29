@@ -1,5 +1,5 @@
 [//]: # (ScamSlam)  
-<video controls width="480">
+<video controls width="720">
   <source src="./docs/ScamSlamRepo.mp4" type="video/mp4">
 </video>  
 
