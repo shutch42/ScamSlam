@@ -1,4 +1,5 @@
-[//]: # (ScamSlam)
+[//]: # (ScamSlam)  
+https://user-images.githubusercontent.com/92343163/166059877-29608bd7-9f7b-458e-8622-7078e9a41ccb.mp4  
 ## The Problem
 Millions of people encounter scams every day. These scams can look convincing, and no one is completely immune to them. There are many different kinds of scams out there, such as phishing, viruses, fraud, hacking, and impersonation, so it can be hard to keep track and stay informed of each method.
 
