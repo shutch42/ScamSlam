@@ -1,7 +1,4 @@
 [//]: # (ScamSlam)  
-<video controls width="720">
-  <source src="./docs/ScamSlamRepo.mp4" type="video/mp4">
-</video>  
 
 ## The Problem
 Millions of people encounter scams every day. These scams can look convincing, and no one is completely immune to them. There are many different kinds of scams out there, such as phishing, viruses, fraud, hacking, and impersonation, so it can be hard to keep track and stay informed of each method.
@@ -35,7 +32,7 @@ To combat these many methods of scams, we've designed a suite of anti-scam softw
 ![Popup Block](./img/popupBlock.png)  
   
 
-## Design Process
+## Design Process  
 ### Research
 We made decisions about our design goals through interviews, contextual inquiry, sketches, and storyboards.  
 Read more about it in these project documents:  
@@ -46,6 +43,11 @@ We refined our design through multiple paper prototypes, usability tests, and a 
 Learn more about it here:  
 [Presentation 3F](./docs/Project3F.pdf)  
 [Report 3G](./docs/Project3G.pdf)  
+
+## Video Prototype  
+<video controls width="640">
+  <source src="./docs/ScamSlamRepo.mp4" type="video/mp4">
+</video>  
 
 ## Interactive Digital Mockup
 [Test out our scam detection UI here.](detected.html) 
